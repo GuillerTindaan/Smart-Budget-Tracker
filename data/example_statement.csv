@@ -1,0 +1,252 @@
+Date,Description,Amount,Category
+2024-07-14,Paycheck,1949.82,income
+2024-07-14,Amazon Purchase,-57.73,shopping
+2024-07-14,Rent Payment,-999.92,rent
+2024-07-15,Starbucks,-31.13,food
+2024-07-15,Amazon Prime,-18.39,subscriptions
+2024-07-17,McDonalds,-52.59,food
+2024-07-18,Gas Station,-36.61,transportation
+2024-07-19,Local Deli,-50.16,food
+2024-07-20,McDonalds,-62.03,food
+2024-07-22,McDonalds,-25.49,food
+2024-07-25,Paycheck,1909.92,income
+2024-07-25,Phone Bill,-46.52,utilities
+2024-07-26,Netflix,-10.26,subscriptions
+2024-07-27,Amazon Purchase,-41.23,shopping
+2024-07-28,Whole Foods Market,-41.40,food
+2024-07-30,Gym Membership,-15.67,subscriptions
+2024-07-31,Uber ride,-22.79,transportation
+2024-08-02,Gas Station,-42.66,transportation
+2024-08-04,Coffee Shop,-6.84,food
+2024-08-05,Electricity Bill,-114.81,utilities
+2024-08-06,Spotify,-15.09,subscriptions
+2024-08-07,Landlord Rent,-1001.28,rent
+2024-08-07,Paycheck,2007.06,income
+2024-08-08,Amazon Purchase,-71.99,shopping
+2024-08-08,McDonalds,-38.38,food
+2024-08-10,Gas Station,-30.32,transportation
+2024-08-11,Netflix,-18.16,subscriptions
+2024-08-13,Phone Bill,-43.94,utilities
+2024-08-14,Whole Foods Market,-44.22,food
+2024-08-15,Uber ride,-14.26,transportation
+2024-08-17,Coffee Shop,-12.53,food
+2024-08-18,Paycheck,1819.68,income
+2024-08-19,Gym Membership,-16.94,subscriptions
+2024-08-20,Amazon Purchase,-80.44,shopping
+2024-08-21,Landlord Rent,-951.03,rent
+2024-08-23,Spotify,-14.70,subscriptions
+2024-08-24,McDonalds,-26.62,food
+2024-08-25,Gas Station,-33.96,transportation
+2024-08-26,Electricity Bill,-66.61,utilities
+2024-08-28,Whole Foods Market,-55.98,food
+2024-08-29,Netflix,-16.69,subscriptions
+2024-08-30,Paycheck,2013.12,income
+2024-09-01,Coffee Shop,-9.99,food
+2024-09-02,Amazon Purchase,-43.44,shopping
+2024-09-03,Phone Bill,-52.54,utilities
+2024-09-05,Uber ride,-17.97,transportation
+2024-09-06,Gas Station,-34.46,transportation
+2024-09-07,Landlord Rent,-1143.09,rent
+2024-09-08,Spotify,-19.05,subscriptions
+2024-09-09,Whole Foods Market,-66.19,food
+2024-09-10,Paycheck,1907.96,income
+2024-09-11,McDonalds,-36.88,food
+2024-09-12,Netflix,-10.75,subscriptions
+2024-09-14,Amazon Purchase,-80.89,shopping
+2024-09-15,Gym Membership,-24.39,subscriptions
+2024-09-16,Coffee Shop,-6.31,food
+2024-09-17,Electricity Bill,-91.40,utilities
+2024-09-18,Uber ride,-17.10,transportation
+2024-09-19,Gas Station,-40.06,transportation
+2024-09-20,Whole Foods Market,-55.74,food
+2024-09-21,Landlord Rent,-951.88,rent
+2024-09-22,Paycheck,1943.89,income
+2024-09-23,Spotify,-10.31,subscriptions
+2024-09-24,Amazon Purchase,-65.70,shopping
+2024-09-25,McDonalds,-24.83,food
+2024-09-26,Phone Bill,-56.61,utilities
+2024-09-27,Netflix,-15.14,subscriptions
+2024-09-28,Coffee Shop,-8.20,food
+2024-09-29,Uber ride,-13.03,transportation
+2024-10-01,Gas Station,-50.37,transportation
+2024-10-02,Paycheck,2082.25,income
+2024-10-03,Whole Foods Market,-59.58,food
+2024-10-04,Electricity Bill,-97.40,utilities
+2024-10-05,Amazon Purchase,-62.56,shopping
+2024-10-06,Landlord Rent,-1024.68,rent
+2024-10-07,Spotify,-12.30,subscriptions
+2024-10-08,McDonalds,-28.69,food
+2024-10-09,Coffee Shop,-5.22,food
+2024-10-10,Uber ride,-17.48,transportation
+2024-10-11,Netflix,-19.86,subscriptions
+2024-10-12,Paycheck,1875.31,income
+2024-10-13,Gym Membership,-15.32,subscriptions
+2024-10-14,Gas Station,-45.12,transportation
+2024-10-15,Whole Foods Market,-43.71,food
+2024-10-16,Amazon Purchase,-49.87,shopping
+2024-10-17,Phone Bill,-53.07,utilities
+2024-10-18,Landlord Rent,-995.25,rent
+2024-10-19,Spotify,-9.98,subscriptions
+2024-10-20,McDonalds,-27.33,food
+2024-10-21,Paycheck,2028.80,income
+2024-10-22,Coffee Shop,-12.77,food
+2024-10-23,Uber ride,-15.09,transportation
+2024-10-24,Electricity Bill,-72.23,utilities
+2024-10-25,Gas Station,-37.19,transportation
+2024-10-26,Netflix,-18.49,subscriptions
+2024-10-27,Whole Foods Market,-57.54,food
+2024-10-28,Amazon Purchase,-39.96,shopping
+2024-10-29,Paycheck,1899.66,income
+2024-10-30,Landlord Rent,-1105.94,rent
+2024-10-31,McDonalds,-29.15,food
+2024-11-01,Phone Bill,-40.61,utilities
+2024-11-02,Gym Membership,-22.96,subscriptions
+2024-11-03,Spotify,-12.66,subscriptions
+2024-11-04,Coffee Shop,-8.59,food
+2024-11-05,Gas Station,-33.82,transportation
+2024-11-06,Uber ride,-20.20,transportation
+2024-11-07,Paycheck,1998.71,income
+2024-11-08,Netflix,-14.19,subscriptions
+2024-11-09,Amazon Purchase,-56.17,shopping
+2024-11-10,Whole Foods Market,-47.88,food
+2024-11-11,Landlord Rent,-995.12,rent
+2024-11-12,McDonalds,-22.44,food
+2024-11-13,Phone Bill,-46.89,utilities
+2024-11-14,Paycheck,1802.93,income
+2024-11-15,Coffee Shop,-6.12,food
+2024-11-16,Gym Membership,-18.72,subscriptions
+2024-11-17,Spotify,-16.44,subscriptions
+2024-11-18,Gas Station,-39.02,transportation
+2024-11-19,Uber ride,-14.81,transportation
+2024-11-20,Amazon Purchase,-77.94,shopping
+2024-11-21,Whole Foods Market,-69.34,food
+2024-11-22,Netflix,-11.22,subscriptions
+2024-11-23,Landlord Rent,-1015.71,rent
+2024-11-24,McDonalds,-25.93,food
+2024-11-25,Paycheck,2011.53,income
+2024-11-26,Phone Bill,-44.59,utilities
+2024-11-27,Coffee Shop,-9.47,food
+2024-11-28,Spotify,-14.01,subscriptions
+2024-11-29,Gas Station,-35.42,transportation
+2024-11-30,Uber ride,-13.74,transportation
+2024-12-01,Amazon Purchase,-48.10,shopping
+2024-12-02,Whole Foods Market,-50.85,food
+2024-12-03,Netflix,-16.38,subscriptions
+2024-12-04,Landlord Rent,-1102.17,rent
+2024-12-05,McDonalds,-26.83,food
+2024-12-06,Paycheck,1959.92,income
+2024-12-07,Phone Bill,-54.17,utilities
+2024-12-08,Coffee Shop,-7.96,food
+2024-12-09,Gym Membership,-25.41,subscriptions
+2024-12-10,Spotify,-17.28,subscriptions
+2024-12-11,Gas Station,-40.62,transportation
+2024-12-12,Uber ride,-19.33,transportation
+2024-12-13,Amazon Purchase,-68.43,shopping
+2024-12-14,Whole Foods Market,-64.11,food
+2024-12-15,Netflix,-12.48,subscriptions
+2024-12-16,Landlord Rent,-1008.29,rent
+2024-12-17,McDonalds,-21.44,food
+2024-12-18,Paycheck,1921.77,income
+2024-12-19,Phone Bill,-50.24,utilities
+2024-12-20,Coffee Shop,-8.12,food
+2024-12-21,Spotify,-13.07,subscriptions
+2024-12-22,Gas Station,-37.21,transportation
+2024-12-23,Uber ride,-15.85,transportation
+2024-12-24,Amazon Purchase,-54.35,shopping
+2024-12-25,Whole Foods Market,-56.75,food
+2024-12-26,Netflix,-14.89,subscriptions
+2024-12-27,Landlord Rent,-1041.98,rent
+2024-12-28,McDonalds,-24.59,food
+2024-12-29,Paycheck,2034.20,income
+2024-12-30,Phone Bill,-45.66,utilities
+2024-12-31,Coffee Shop,-10.24,food
+2025-01-01,Gym Membership,-22.74,subscriptions
+2025-01-02,Spotify,-15.90,subscriptions
+2025-01-03,Gas Station,-42.48,transportation
+2025-01-04,Uber ride,-20.77,transportation
+2025-01-05,Amazon Purchase,-61.93,shopping
+2025-01-06,Whole Foods Market,-63.12,food
+2025-01-07,Netflix,-19.40,subscriptions
+2025-01-08,Landlord Rent,-991.72,rent
+2025-01-09,McDonalds,-28.11,food
+2025-01-10,Paycheck,1888.33,income
+2025-01-11,Phone Bill,-55.53,utilities
+2025-01-12,Coffee Shop,-7.65,food
+2025-01-13,Spotify,-10.75,subscriptions
+2025-01-14,Gas Station,-34.97,transportation
+2025-01-15,Uber ride,-18.96,transportation
+2025-01-16,Amazon Purchase,-70.28,shopping
+2025-01-17,Whole Foods Market,-57.22,food
+2025-01-18,Netflix,-16.63,subscriptions
+2025-01-19,Landlord Rent,-1019.33,rent
+2025-01-20,McDonalds,-25.41,food
+2025-01-21,Paycheck,1944.72,income
+2025-01-22,Phone Bill,-42.89,utilities
+2025-01-23,Coffee Shop,-8.73,food
+2025-01-24,Spotify,-13.88,subscriptions
+2025-01-25,Gas Station,-39.80,transportation
+2025-01-26,Uber ride,-21.08,transportation
+2025-01-27,Amazon Purchase,-48.23,shopping
+2025-01-28,Whole Foods Market,-62.65,food
+2025-01-29,Netflix,-18.15,subscriptions
+2025-01-30,Landlord Rent,-987.16,rent
+2025-01-31,McDonalds,-27.48,food
+2025-02-01,Paycheck,1875.44,income
+2025-02-02,Phone Bill,-54.30,utilities
+2025-02-03,Coffee Shop,-9.23,food
+2025-02-04,Spotify,-14.44,subscriptions
+2025-02-05,Gas Station,-36.47,transportation
+2025-02-06,Uber ride,-16.59,transportation
+2025-02-07,Amazon Purchase,-55.13,shopping
+2025-02-08,Whole Foods Market,-59.72,food
+2025-02-09,Netflix,-13.99,subscriptions
+2025-02-10,Landlord Rent,-1043.62,rent
+2025-02-11,McDonalds,-26.04,food
+2025-02-12,Paycheck,2016.91,income
+2025-02-13,Phone Bill,-47.92,utilities
+2025-02-14,Coffee Shop,-6.95,food
+2025-02-15,Spotify,-12.58,subscriptions
+2025-02-16,Gas Station,-33.73,transportation
+2025-02-17,Uber ride,-19.01,transportation
+2025-02-18,Amazon Purchase,-42.77,shopping
+2025-02-19,Whole Foods Market,-54.09,food
+2025-02-20,Netflix,-17.24,subscriptions
+2025-02-21,Landlord Rent,-995.55,rent
+2025-02-22,McDonalds,-23.58,food
+2025-02-23,Paycheck,1964.79,income
+2025-02-24,Phone Bill,-43.61,utilities
+2025-02-25,Coffee Shop,-7.89,food
+2025-02-26,Spotify,-11.87,subscriptions
+2025-02-27,Gas Station,-38.94,transportation
+2025-02-28,Uber ride,-22.33,transportation
+2025-03-01,Amazon Purchase,-49.45,shopping
+2025-03-02,Whole Foods Market,-56.82,food
+2025-03-03,Netflix,-15.98,subscriptions
+2025-03-04,Landlord Rent,-1002.73,rent
+2025-03-05,McDonalds,-21.99,food
+2025-03-06,Paycheck,1905.20,income
+2025-03-07,Phone Bill,-50.78,utilities
+2025-03-08,Coffee Shop,-10.19,food
+2025-03-09,Spotify,-14.71,subscriptions
+2025-03-10,Gas Station,-34.36,transportation
+2025-03-11,Uber ride,-17.49,transportation
+2025-03-12,Amazon Purchase,-66.39,shopping
+2025-03-13,Whole Foods Market,-61.94,food
+2025-03-14,Netflix,-13.26,subscriptions
+2025-03-15,Landlord Rent,-1047.59,rent
+2025-03-16,McDonalds,-27.66,food
+2025-03-17,Paycheck,1987.35,income
+2025-03-18,Phone Bill,-46.45,utilities
+2025-03-19,Coffee Shop,-9.50,food
+2025-03-20,Spotify,-12.30,subscriptions
+2025-03-21,Gas Station,-37.72,transportation
+2025-03-22,Uber ride,-20.05,transportation
+2025-03-23,Amazon Purchase,-44.38,shopping
+2025-03-24,Whole Foods Market,-58.77,food
+2025-03-25,Netflix,-18.77,subscriptions
+2025-03-26,Landlord Rent,-990.00,rent
+2025-03-27,McDonalds,-24.22,food
+2025-03-28,Paycheck,2030.90,income
+2025-03-29,Phone Bill,-52.04,utilities
+2025-03-30,Coffee Shop,-8.45,food
+2025-03-31,Spotify,-11.93,subscriptions
